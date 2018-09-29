@@ -21,7 +21,7 @@ Here's my notebook : https://www.kaggle.com/rishabh254/nyc-ola/notebook
 The code contains in the 'nyc_ola.py' file.
 
 # Data:
-The training data contains in 'train.csv' file and the testing data contains in the 'train.csv' file and the testing data contains in the 'test.csv' file. I am also adding a file 'Data Description.txt' which contains the explanations of the fields available in the other data files.
+The training data contains in 'train.csv' file and the testing data contains in the 'train.csv' file and the testing data contains in the 'test.csv' file. I am also adding a file 'data_description.txt' which contains the explanations of the fields available in the other data files.
 
 # To download the data please follow the links:
 1. train.csv (https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/download/train.csv)
