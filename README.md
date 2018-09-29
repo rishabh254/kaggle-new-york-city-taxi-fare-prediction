@@ -12,6 +12,16 @@ To download the data please follow the links:
 2. test.csv (https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/download/test.csv)
 
 # Install:
+To run this notebook:
+
+1. Clone the repository.
+2. Install [virtualenv](http://virtualenv.readthedocs.org/en/latest/installation.html).
+3. Navigate to the directory where you unzipped or cloned the repo and create a virtual environment with `virtualenv env`.
+4. Activate the environment with `source env/bin/activate`
+5. Install the required dependencies with `pip install -r requirements.txt`.
+6. Execute `ipython notebook` from the command line or terminal.
+7. When you're done deactivate the virtual environment with `deactivate`.
+
 
 # Dependencies:
 * [NumPy](http://www.numpy.org/)
@@ -26,7 +36,6 @@ I have been using kaggle kernels for this project.
 Here's my notebook : https://www.kaggle.com/rishabh254/nyc-ola/notebook
 
 # Code:
-The code contains in the 'nyc_ola.py' file.
 
 # Goal:
 The goal for the competition is to predict the fare amount (inclusive of tolls) for a taxi ride in New York City given the pickup and dropoff locations.
