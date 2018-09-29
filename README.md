@@ -6,13 +6,14 @@ https://www.kaggle.com/c/new-york-city-taxi-fare-prediction
 
 # Install:
 
-You need to install the following libraries.
-1. NumPy (for documentation:http://www.numpy.org/)
-2. Pandas (for documentation:http://pandas.pydata.org/)
-3. Seaborn (for documentation:https://seaborn.pydata.org)
-4. Matplotlib (for documentation:https://matplotlib.org/)
-5. Scikit-Learn (for documentation:http://scikit-learn.org/stable/)
-6. Keras (for documentation:https://keras.io/)
+# Dependencies:
+* [NumPy](http://www.numpy.org/)
+* [IPython](http://ipython.org/)
+* [Pandas](http://pandas.pydata.org/)
+* [SciKit-Learn](http://scikit-learn.org/stable/)
+* [Seaborn](https://seaborn.pydata.org/)
+* [Matplotlib](http://matplotlib.org/)
+* [Keras](https://keras.io/)
 
 I have been using kaggle kernels for this project. 
 Here's my notebook : https://www.kaggle.com/rishabh254/nyc-ola/notebook
