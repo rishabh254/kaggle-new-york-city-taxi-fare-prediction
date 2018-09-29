@@ -1,7 +1,8 @@
 # kaggle-new-york-city-taxi-fare-prediction
 My solution of the New York City Taxi Fare Prediction competition of Kaggle.
 
-# To know more about the competition please follow the link: https://www.kaggle.com/c/new-york-city-taxi-fare-prediction
+# To know more about the competition please follow the link: 
+https://www.kaggle.com/c/new-york-city-taxi-fare-prediction
 
 # Install:
 
@@ -13,7 +14,7 @@ You need to install the following libraries.
 5. Scikit-Learn (for documentation:http://scikit-learn.org/stable/)
 6. Keras (for documentation:https://keras.io/)
 
-I have been using kaggle kernels for this project.
+I have been using kaggle kernels for this project. 
 Here's my notebook : https://www.kaggle.com/rishabh254/nyc-ola/notebook
 
 # Code:
