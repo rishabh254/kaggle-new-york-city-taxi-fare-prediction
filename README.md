@@ -36,11 +36,11 @@ I have been using kaggle kernels for this project.
 Here's my notebook : https://www.kaggle.com/rishabh254/nyc-ola/notebook
 
 # Code:
-main.ipynb : contains the whole code
-eda.ipynb : contains data exploration
-cleaning.ipynb : contains code to remove outliers
-feature_engineering.ipynb : contains code to extract new features
-models1.ipynb : model for rides with variable fare
+main.ipynb : contains the whole code __
+eda.ipynb : contains data exploration __
+cleaning.ipynb : contains code to remove outliers __
+feature_engineering.ipynb : contains code to extract new features __
+models1.ipynb : model for rides with variable fare __
 models2.ipynb : model for rides with almost constant fare
 
 # Goal:
