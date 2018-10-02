@@ -36,6 +36,12 @@ I have been using kaggle kernels for this project.
 Here's my notebook : https://www.kaggle.com/rishabh254/nyc-ola/notebook
 
 # Code:
+main.ipynb : contains the whole code
+eda.ipynb : contains data exploration
+cleaning.ipynb : contains code to remove outliers
+feature_engineering.ipynb : contains code to extract new features
+models1.ipynb : model for rides with variable fare
+models2.ipynb : model for rides with almost constant fare
 
 # Goal:
 The goal for the competition is to predict the fare amount (inclusive of tolls) for a taxi ride in New York City given the pickup and dropoff locations.
