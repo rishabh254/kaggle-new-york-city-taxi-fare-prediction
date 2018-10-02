@@ -36,7 +36,7 @@ I have been using kaggle kernels for this project.
 Here's my notebook : https://www.kaggle.com/rishabh254/nyc-ola/notebook
 
 # Code:
-main.ipynb : contains the whole code <br />
+main.ipynb(https://github.com/rishabh254/kaggle-new-york-city-taxi-fare-prediction/blob/master/main.ipynb) : contains the whole code <br />
 eda.ipynb : contains data exploration <br />
 cleaning.ipynb : contains code to remove outliers <br />
 feature_engineering.ipynb : contains code to extract new features <br />
