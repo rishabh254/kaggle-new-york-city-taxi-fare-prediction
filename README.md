@@ -36,12 +36,12 @@ I have been using kaggle kernels for this project.
 Here's my notebook : https://www.kaggle.com/rishabh254/nyc-ola/notebook
 
 # Code:
-main.ipynb(https://github.com/rishabh254/kaggle-new-york-city-taxi-fare-prediction/blob/master/main.ipynb) : contains the whole code <br />
-eda.ipynb : contains data exploration <br />
-cleaning.ipynb : contains code to remove outliers <br />
-feature_engineering.ipynb : contains code to extract new features <br />
-models1.ipynb : model for rides with variable fare <br />
-models2.ipynb : model for rides with almost constant fare
+[main.ipynb](https://github.com/rishabh254/kaggle-new-york-city-taxi-fare-prediction/blob/master/main.ipynb) : contains the whole code <br />
+[eda.ipynb](https://github.com/rishabh254/kaggle-new-york-city-taxi-fare-prediction/blob/master/eda/eda.ipynb) : contains data exploration <br />
+[cleaning.ipynb](https://github.com/rishabh254/kaggle-new-york-city-taxi-fare-prediction/blob/master/cleaning/cleaning.ipynb) : contains code to remove outliers <br />
+[feature_engineering.ipynb](https://github.com/rishabh254/kaggle-new-york-city-taxi-fare-prediction/blob/master/feature_engineering/feature_engineering.ipynb) : contains code to extract new features <br />
+[model1.ipynb](https://github.com/rishabh254/kaggle-new-york-city-taxi-fare-prediction/blob/master/models/model1.ipynb) : model for rides with variable fare <br />
+[model2.ipynb](https://github.com/rishabh254/kaggle-new-york-city-taxi-fare-prediction/blob/master/models/model2.ipynb) : model for rides with almost constant fare
 
 # Goal:
 The goal for the competition is to predict the fare amount (inclusive of tolls) for a taxi ride in New York City given the pickup and dropoff locations.
